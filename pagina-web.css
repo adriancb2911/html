@@ -1,0 +1,86 @@
+
+    body { 
+        margin:0; 
+        font-family: Arial, Helvetica, sans-serif; 
+        background:whitesmoke; 
+    }
+    table { 
+        border-collapse: collapse; 
+        width: 100%;
+     }
+    
+    .cabecera { 
+        background:red; 
+        color:white; 
+        height:60px; 
+    }
+    .logo { 
+        font-size:32px; 
+        font-weight:bold; 
+        text-align:center; 
+    }
+   
+    .tabla { 
+        width:80%; 
+        margin:20px auto; 
+        background:white;
+     }
+    .imagen { 
+        text-align:center; 
+        padding:10px;
+     }
+    .imagen img { 
+        max-width:100%; 
+        height:auto; 
+    }
+    .Entrevista { 
+        color:red; 
+        font-weight:bold;
+        text-align:center; 
+    }
+    .titulo{ 
+        font-size:26px; 
+        font-weight:bold; 
+        text-align:center; 
+        padding:10px; }
+
+    .autor { 
+        text-align:center; 
+        color: gray; 
+        font-size:14px; 
+        padding-bottom:15px;
+     }
+   
+    .copa { 
+        color:red; 
+        font-weight:bold; padding:10px; 
+    }
+    .resultados td { 
+        padding:10px; 
+        border-top:1px solid gray; 
+    }
+    .hora { 
+        width:15%; color:gray; 
+    }
+    .partido { 
+        width:70%; 
+    }
+    .verMas { 
+        width:15%; 
+        text-align:right; 
+        color:red; 
+        font-weight:bold;
+     }
+     .NOTICIAS {
+        padding:10px; 
+        border-top:1px solid gray; 
+     }
+     .NOTICIAS td {
+        padding:10px; 
+        border-top:1px solid gray; 
+     }
+     .NOTICIAS tr {
+        padding:10px; 
+        border-top:1px solid gray; 
+     }
+  
